@@ -1,0 +1,377 @@
+| distributed init (rank 1): env://, gpu 1
+| distributed init (rank 0): env://, gpu 0
+world_size: 2, gpu: 0
+Using 8 dataloader workers every process
+Epoch: 1. Train Loss: 597.684394. best-save Patience Count: 0.
+Epoch: 2. Train Loss: 531.035429. best-save Patience Count: 0.
+Epoch: 3. Train Loss: 505.995421. best-save Patience Count: 0.
+Epoch: 4. Train Loss: 491.120641. best-save Patience Count: 0.
+Epoch: 5. Train Loss: 475.680345. best-save Patience Count: 0.
+Epoch: 6. Train Loss: 463.368452. best-save Patience Count: 0.
+Epoch: 7. Train Loss: 452.456105. best-save Patience Count: 0.
+Epoch: 8. Train Loss: 439.966265. best-save Patience Count: 0.
+Epoch: 9. Train Loss: 429.069656. best-save Patience Count: 0.
+Epoch: 10. Train Loss: 412.368389. best-save Patience Count: 0.
+Epoch: 11. Train Loss: 400.035514. best-save Patience Count: 0.
+Epoch: 12. Train Loss: 389.674805. best-save Patience Count: 0.
+Epoch: 13. Train Loss: 377.141487. best-save Patience Count: 0.
+Epoch: 14. Train Loss: 358.805062. best-save Patience Count: 0.
+Epoch: 15. Train Loss: 350.533883. best-save Patience Count: 0.
+Epoch: 16. Train Loss: 330.509810. best-save Patience Count: 0.
+Epoch: 17. Train Loss: 315.934148. best-save Patience Count: 0.
+Epoch: 18. Train Loss: 301.346073. best-save Patience Count: 0.
+Epoch: 19. Train Loss: 282.541442. best-save Patience Count: 0.
+Epoch: 20. Train Loss: 276.091952. best-save Patience Count: 0.
+Epoch: 21. Train Loss: 262.973101. best-save Patience Count: 0.
+Epoch: 22. Train Loss: 254.036011. best-save Patience Count: 0.
+Epoch: 23. Train Loss: 242.006286. best-save Patience Count: 0.
+Epoch: 24. Train Loss: 227.263090. best-save Patience Count: 0.
+Epoch: 25. Train Loss: 214.791542. best-save Patience Count: 0.
+Epoch: 26. Train Loss: 204.566484. best-save Patience Count: 0.
+Epoch: 27. Train Loss: 202.020526. best-save Patience Count: 0.
+Epoch: 28. Train Loss: 192.253804. best-save Patience Count: 0.
+Epoch: 29. Train Loss: 176.234657. best-save Patience Count: 0.
+Epoch: 30. Train Loss: 172.213534. best-save Patience Count: 0.
+Epoch: 31. Train Loss: 160.569284. best-save Patience Count: 0.
+Epoch: 32. Train Loss: 158.110461. best-save Patience Count: 0.
+Epoch: 33. Train Loss: 149.309940. best-save Patience Count: 0.
+Epoch: 34. Train Loss: 143.019954. best-save Patience Count: 0.
+Epoch: 35. Train Loss: 137.941866. best-save Patience Count: 0.
+Epoch: 36. Train Loss: 127.183378. best-save Patience Count: 0.
+Epoch: 37. Train Loss: 122.785163. best-save Patience Count: 0.
+Epoch: 38. Train Loss: 120.192199. best-save Patience Count: 0.
+Epoch: 39. Train Loss: 116.407352. best-save Patience Count: 0.
+Epoch: 40. Train Loss: 108.021176. best-save Patience Count: 0.
+Epoch: 41. Train Loss: 107.185485. best-save Patience Count: 0.
+Epoch: 42. Train Loss: 95.853935. best-save Patience Count: 0.
+Epoch: 43. Train Loss: 98.142646. Patience Count: 1.
+Epoch: 44. Train Loss: 92.047884. best-save Patience Count: 0.
+Epoch: 45. Train Loss: 90.901917. best-save Patience Count: 0.
+Epoch: 46. Train Loss: 88.562232. best-save Patience Count: 0.
+Epoch: 47. Train Loss: 86.500763. best-save Patience Count: 0.
+Epoch: 48. Train Loss: 78.982955. best-save Patience Count: 0.
+Epoch: 49. Train Loss: 78.078193. best-save Patience Count: 0.
+Epoch: 50. Train Loss: 73.569940. best-save Patience Count: 0.
+Epoch: 51. Train Loss: 55.990020. best-save Patience Count: 0.
+Epoch: 52. Train Loss: 46.362198. best-save Patience Count: 0.
+Epoch: 53. Train Loss: 44.895656. best-save Patience Count: 0.
+Epoch: 54. Train Loss: 42.808025. best-save Patience Count: 0.
+Epoch: 55. Train Loss: 39.125448. best-save Patience Count: 0.
+Epoch: 56. Train Loss: 38.730174. best-save Patience Count: 0.
+Epoch: 57. Train Loss: 37.882329. best-save Patience Count: 0.
+Epoch: 58. Train Loss: 36.087055. best-save Patience Count: 0.
+Epoch: 59. Train Loss: 37.076064. Patience Count: 1.
+Epoch: 60. Train Loss: 37.519245. Patience Count: 2.
+Epoch: 61. Train Loss: 32.562646. best-save Patience Count: 0.
+Epoch: 62. Train Loss: 36.628855. Patience Count: 1.
+Epoch: 63. Train Loss: 33.422858. Patience Count: 2.
+Epoch: 64. Train Loss: 30.907902. best-save Patience Count: 0.
+Epoch: 65. Train Loss: 32.016737. Patience Count: 1.
+Epoch: 66. Train Loss: 31.985455. Patience Count: 2.
+Epoch: 67. Train Loss: 30.832565. best-save Patience Count: 0.
+Epoch: 68. Train Loss: 30.527494. best-save Patience Count: 0.
+Epoch: 69. Train Loss: 28.620537. best-save Patience Count: 0.
+Epoch: 70. Train Loss: 29.517434. Patience Count: 1.
+Epoch: 71. Train Loss: 31.517054. Patience Count: 2.
+Epoch: 72. Train Loss: 26.132321. best-save Patience Count: 0.
+Epoch: 73. Train Loss: 26.339322. Patience Count: 1.
+Epoch: 74. Train Loss: 26.251369. Patience Count: 2.
+Epoch: 75. Train Loss: 28.317876. Patience Count: 3.
+Epoch: 76. Train Loss: 25.698757. best-save Patience Count: 0.
+Epoch: 77. Train Loss: 25.489954. best-save Patience Count: 0.
+Epoch: 78. Train Loss: 25.996554. Patience Count: 1.
+Epoch: 79. Train Loss: 26.637587. Patience Count: 2.
+Epoch: 80. Train Loss: 24.236660. best-save Patience Count: 0.
+Epoch: 81. Train Loss: 24.845963. Patience Count: 1.
+Epoch: 82. Train Loss: 25.234541. Patience Count: 2.
+Epoch: 83. Train Loss: 22.645824. best-save Patience Count: 0.
+Epoch: 84. Train Loss: 21.918288. best-save Patience Count: 0.
+Epoch: 85. Train Loss: 20.528530. best-save Patience Count: 0.
+Epoch: 86. Train Loss: 24.640297. Patience Count: 1.
+Epoch: 87. Train Loss: 21.527095. Patience Count: 2.
+Epoch: 88. Train Loss: 21.005228. Patience Count: 3.
+Epoch: 89. Train Loss: 22.145311. Patience Count: 4.
+Epoch: 90. Train Loss: 20.460547. best-save Patience Count: 0.
+Epoch: 91. Train Loss: 20.278060. best-save Patience Count: 0.
+Epoch: 92. Train Loss: 20.985201. Patience Count: 1.
+Epoch: 93. Train Loss: 21.422180. Patience Count: 2.
+Epoch: 94. Train Loss: 19.210508. best-save Patience Count: 0.
+Epoch: 95. Train Loss: 18.709411. best-save Patience Count: 0.
+Epoch: 96. Train Loss: 17.968197. best-save Patience Count: 0.
+Epoch: 97. Train Loss: 16.940311. best-save Patience Count: 0.
+Epoch: 98. Train Loss: 16.037194. best-save Patience Count: 0.
+Epoch: 99. Train Loss: 18.979447. Patience Count: 1.
+Epoch: 100. Train Loss: 17.758354. Patience Count: 2.
+Epoch: 101. Train Loss: 12.892106. best-save Patience Count: 0.
+Epoch: 102. Train Loss: 10.281814. best-save Patience Count: 0.
+Epoch: 103. Train Loss: 10.009541. best-save Patience Count: 0.
+Epoch: 104. Train Loss: 10.044315. Patience Count: 1.
+Epoch: 105. Train Loss: 8.927936. best-save Patience Count: 0.
+Epoch: 106. Train Loss: 9.498476. Patience Count: 1.
+Epoch: 107. Train Loss: 10.706592. Patience Count: 2.
+Epoch: 108. Train Loss: 9.272642. Patience Count: 3.
+Epoch: 109. Train Loss: 8.821483. best-save Patience Count: 0.
+Epoch: 110. Train Loss: 8.623624. best-save Patience Count: 0.
+Epoch: 111. Train Loss: 7.513420. best-save Patience Count: 0.
+Epoch: 112. Train Loss: 8.487024. Patience Count: 1.
+Epoch: 113. Train Loss: 11.124655. Patience Count: 2.
+Epoch: 114. Train Loss: 8.778655. Patience Count: 3.
+Epoch: 115. Train Loss: 7.996194. Patience Count: 4.
+Epoch: 116. Train Loss: 9.236699. Patience Count: 5.
+Epoch: 117. Train Loss: 8.495913. Patience Count: 6.
+Epoch: 118. Train Loss: 7.033561. best-save Patience Count: 0.
+Epoch: 119. Train Loss: 9.808639. Patience Count: 1.
+Epoch: 120. Train Loss: 7.522783. Patience Count: 2.
+Epoch: 121. Train Loss: 8.305648. Patience Count: 3.
+Epoch: 122. Train Loss: 8.916844. Patience Count: 4.
+Epoch: 123. Train Loss: 8.367560. Patience Count: 5.
+Epoch: 124. Train Loss: 7.878465. Patience Count: 6.
+Epoch: 125. Train Loss: 8.214130. Patience Count: 7.
+Epoch: 126. Train Loss: 8.709926. Patience Count: 8.
+Epoch: 127. Train Loss: 7.943726. Patience Count: 9.
+Epoch: 128. Train Loss: 9.091344. Patience Count: 10.
+Epoch: 129. Train Loss: 7.897057. Patience Count: 11.
+Epoch: 130. Train Loss: 7.130188. Patience Count: 12.
+Epoch: 131. Train Loss: 6.881672. best-save Patience Count: 0.
+Epoch: 132. Train Loss: 7.321867. Patience Count: 1.
+Epoch: 133. Train Loss: 8.184009. Patience Count: 2.
+Epoch: 134. Train Loss: 8.294676. Patience Count: 3.
+Epoch: 135. Train Loss: 7.454677. Patience Count: 4.
+Epoch: 136. Train Loss: 7.146140. Patience Count: 5.
+Epoch: 137. Train Loss: 8.475982. Patience Count: 6.
+Epoch: 138. Train Loss: 7.982098. Patience Count: 7.
+Epoch: 139. Train Loss: 7.890086. Patience Count: 8.
+Epoch: 140. Train Loss: 6.362185. best-save Patience Count: 0.
+Epoch: 141. Train Loss: 7.495276. Patience Count: 1.
+Epoch: 142. Train Loss: 7.392939. Patience Count: 2.
+Epoch: 143. Train Loss: 7.496820. Patience Count: 3.
+Epoch: 144. Train Loss: 7.163699. Patience Count: 4.
+Epoch: 145. Train Loss: 7.343756. Patience Count: 5.
+Epoch: 146. Train Loss: 6.743013. Patience Count: 6.
+Epoch: 147. Train Loss: 6.035741. best-save Patience Count: 0.
+Epoch: 148. Train Loss: 5.929852. best-save Patience Count: 0.
+Epoch: 149. Train Loss: 7.548560. Patience Count: 1.
+Epoch: 150. Train Loss: 6.710638. Patience Count: 2.
+Epoch: 151. Train Loss: 4.691980. best-save Patience Count: 0.
+Epoch: 152. Train Loss: 4.299877. best-save Patience Count: 0.
+Epoch: 153. Train Loss: 3.840750. best-save Patience Count: 0.
+Epoch: 154. Train Loss: 4.278486. Patience Count: 1.
+Epoch: 155. Train Loss: 4.319277. Patience Count: 2.
+Epoch: 156. Train Loss: 4.290159. Patience Count: 3.
+Epoch: 157. Train Loss: 5.308045. Patience Count: 4.
+Epoch: 158. Train Loss: 3.932619. Patience Count: 5.
+Epoch: 159. Train Loss: 4.073516. Patience Count: 6.
+Epoch: 160. Train Loss: 5.048414. Patience Count: 7.
+Epoch: 161. Train Loss: 3.861047. Patience Count: 8.
+Epoch: 162. Train Loss: 4.036506. Patience Count: 9.
+Epoch: 163. Train Loss: 4.004558. Patience Count: 10.
+Epoch: 164. Train Loss: 3.651965. best-save Patience Count: 0.
+Epoch: 165. Train Loss: 3.417147. best-save Patience Count: 0.
+Epoch: 166. Train Loss: 4.851770. Patience Count: 1.
+Epoch: 167. Train Loss: 3.907862. Patience Count: 2.
+Epoch: 168. Train Loss: 3.843764. Patience Count: 3.
+Epoch: 169. Train Loss: 3.815388. Patience Count: 4.
+Epoch: 170. Train Loss: 4.063196. Patience Count: 5.
+Epoch: 171. Train Loss: 3.593745. Patience Count: 6.
+Epoch: 172. Train Loss: 4.380660. Patience Count: 7.
+Epoch: 173. Train Loss: 3.474028. Patience Count: 8.
+Epoch: 174. Train Loss: 3.367431. best-save Patience Count: 0.
+Epoch: 175. Train Loss: 3.460307. Patience Count: 1.
+Epoch: 176. Train Loss: 3.948102. Patience Count: 2.
+Epoch: 177. Train Loss: 4.640343. Patience Count: 3.
+Epoch: 178. Train Loss: 3.371280. Patience Count: 4.
+Epoch: 179. Train Loss: 3.535318. Patience Count: 5.
+Epoch: 180. Train Loss: 4.103947. Patience Count: 6.
+Epoch: 181. Train Loss: 3.985628. Patience Count: 7.
+Epoch: 182. Train Loss: 3.406931. Patience Count: 8.
+Epoch: 183. Train Loss: 3.047743. best-save Patience Count: 0.
+Epoch: 184. Train Loss: 3.194444. Patience Count: 1.
+Epoch: 185. Train Loss: 3.356549. Patience Count: 2.
+Epoch: 186. Train Loss: 2.843850. best-save Patience Count: 0.
+Epoch: 187. Train Loss: 3.679454. Patience Count: 1.
+Epoch: 188. Train Loss: 4.479819. Patience Count: 2.
+Epoch: 189. Train Loss: 3.136679. Patience Count: 3.
+Epoch: 190. Train Loss: 3.370947. Patience Count: 4.
+Epoch: 191. Train Loss: 3.401652. Patience Count: 5.
+Epoch: 192. Train Loss: 3.302676. Patience Count: 6.
+Epoch: 193. Train Loss: 3.911596. Patience Count: 7.
+Epoch: 194. Train Loss: 3.130536. Patience Count: 8.
+Epoch: 195. Train Loss: 3.764039. Patience Count: 9.
+Epoch: 196. Train Loss: 2.846783. Patience Count: 10.
+Epoch: 197. Train Loss: 3.907340. Patience Count: 11.
+Epoch: 198. Train Loss: 3.624602. Patience Count: 12.
+Epoch: 199. Train Loss: 2.657373. best-save Patience Count: 0.
+Epoch: 200. Train Loss: 4.012499. Patience Count: 1.
+Epoch: 201. Train Loss: 2.795036. Patience Count: 2.
+Epoch: 202. Train Loss: 2.811534. Patience Count: 3.
+Epoch: 203. Train Loss: 3.099529. Patience Count: 4.
+Epoch: 204. Train Loss: 2.888684. Patience Count: 5.
+Epoch: 205. Train Loss: 2.149992. best-save Patience Count: 0.
+Epoch: 206. Train Loss: 2.170294. Patience Count: 1.
+Epoch: 207. Train Loss: 2.433892. Patience Count: 2.
+Epoch: 208. Train Loss: 2.678438. Patience Count: 3.
+Epoch: 209. Train Loss: 2.473767. Patience Count: 4.
+Epoch: 210. Train Loss: 2.636879. Patience Count: 5.
+Epoch: 211. Train Loss: 2.226011. Patience Count: 6.
+Epoch: 212. Train Loss: 1.955963. best-save Patience Count: 0.
+Epoch: 213. Train Loss: 2.545199. Patience Count: 1.
+Epoch: 214. Train Loss: 1.911351. best-save Patience Count: 0.
+Epoch: 215. Train Loss: 2.524083. Patience Count: 1.
+Epoch: 216. Train Loss: 2.030564. Patience Count: 2.
+Epoch: 217. Train Loss: 2.283634. Patience Count: 3.
+Epoch: 218. Train Loss: 1.619354. best-save Patience Count: 0.
+Epoch: 219. Train Loss: 1.797670. Patience Count: 1.
+Epoch: 220. Train Loss: 2.856225. Patience Count: 2.
+Epoch: 221. Train Loss: 1.942634. Patience Count: 3.
+Epoch: 222. Train Loss: 2.628879. Patience Count: 4.
+Epoch: 223. Train Loss: 2.512043. Patience Count: 5.
+Epoch: 224. Train Loss: 2.207990. Patience Count: 6.
+Epoch: 225. Train Loss: 1.528179. best-save Patience Count: 0.
+Epoch: 226. Train Loss: 2.074415. Patience Count: 1.
+Epoch: 227. Train Loss: 1.637327. Patience Count: 2.
+Epoch: 228. Train Loss: 1.762871. Patience Count: 3.
+Epoch: 229. Train Loss: 1.995152. Patience Count: 4.
+Epoch: 230. Train Loss: 2.749063. Patience Count: 5.
+Epoch: 231. Train Loss: 2.083832. Patience Count: 6.
+Epoch: 232. Train Loss: 2.284844. Patience Count: 7.
+Epoch: 233. Train Loss: 1.584138. Patience Count: 8.
+Epoch: 234. Train Loss: 2.350343. Patience Count: 9.
+Epoch: 235. Train Loss: 2.000141. Patience Count: 10.
+Epoch: 236. Train Loss: 2.738548. Patience Count: 11.
+Epoch: 237. Train Loss: 2.498415. Patience Count: 12.
+Epoch: 238. Train Loss: 1.950078. Patience Count: 13.
+Epoch: 239. Train Loss: 2.338708. Patience Count: 14.
+Epoch: 240. Train Loss: 2.590680. Patience Count: 15.
+Epoch: 241. Train Loss: 2.009687. Patience Count: 16.
+Epoch: 242. Train Loss: 2.411324. Patience Count: 17.
+Epoch: 243. Train Loss: 1.369030. best-save Patience Count: 0.
+Epoch: 244. Train Loss: 1.637362. Patience Count: 1.
+Epoch: 245. Train Loss: 1.983882. Patience Count: 2.
+Epoch: 246. Train Loss: 1.708939. Patience Count: 3.
+Epoch: 247. Train Loss: 2.851418. Patience Count: 4.
+Epoch: 248. Train Loss: 2.016953. Patience Count: 5.
+Epoch: 249. Train Loss: 1.690050. Patience Count: 6.
+Epoch: 250. Train Loss: 2.486535. Patience Count: 7.
+Epoch: 251. Train Loss: 1.641175. Patience Count: 8.
+Epoch: 252. Train Loss: 1.502843. Patience Count: 9.
+Epoch: 253. Train Loss: 1.953572. Patience Count: 10.
+Epoch: 254. Train Loss: 1.885970. Patience Count: 11.
+Epoch: 255. Train Loss: 1.693241. Patience Count: 12.
+Epoch: 256. Train Loss: 1.544929. Patience Count: 13.
+Epoch: 257. Train Loss: 1.798421. Patience Count: 14.
+Epoch: 258. Train Loss: 1.518207. Patience Count: 15.
+Epoch: 259. Train Loss: 2.200500. Patience Count: 16.
+Epoch: 260. Train Loss: 1.607838. Patience Count: 17.
+Epoch: 261. Train Loss: 1.335343. best-save Patience Count: 0.
+Epoch: 262. Train Loss: 1.666105. Patience Count: 1.
+Epoch: 263. Train Loss: 1.719790. Patience Count: 2.
+Epoch: 264. Train Loss: 1.950156. Patience Count: 3.
+Epoch: 265. Train Loss: 1.417027. Patience Count: 4.
+Epoch: 266. Train Loss: 1.817379. Patience Count: 5.
+Epoch: 267. Train Loss: 1.564623. Patience Count: 6.
+Epoch: 268. Train Loss: 1.481653. Patience Count: 7.
+Epoch: 269. Train Loss: 1.732025. Patience Count: 8.
+Epoch: 270. Train Loss: 1.682780. Patience Count: 9.
+Epoch: 271. Train Loss: 1.231577. best-save Patience Count: 0.
+Epoch: 272. Train Loss: 1.665553. Patience Count: 1.
+Epoch: 273. Train Loss: 2.059719. Patience Count: 2.
+Epoch: 274. Train Loss: 1.559647. Patience Count: 3.
+Epoch: 275. Train Loss: 1.394709. Patience Count: 4.
+Epoch: 276. Train Loss: 1.413681. Patience Count: 5.
+Epoch: 277. Train Loss: 1.594011. Patience Count: 6.
+Epoch: 278. Train Loss: 2.026418. Patience Count: 7.
+Epoch: 279. Train Loss: 2.021993. Patience Count: 8.
+Epoch: 280. Train Loss: 1.847040. Patience Count: 9.
+Epoch: 281. Train Loss: 1.570656. Patience Count: 10.
+Epoch: 282. Train Loss: 1.640445. Patience Count: 11.
+Epoch: 283. Train Loss: 1.512531. Patience Count: 12.
+Epoch: 284. Train Loss: 1.669703. Patience Count: 13.
+Epoch: 285. Train Loss: 1.289051. Patience Count: 14.
+Epoch: 286. Train Loss: 1.098285. best-save Patience Count: 0.
+Epoch: 287. Train Loss: 1.518466. Patience Count: 1.
+Epoch: 288. Train Loss: 1.380031. Patience Count: 2.
+Epoch: 289. Train Loss: 1.443223. Patience Count: 3.
+Epoch: 290. Train Loss: 1.450211. Patience Count: 4.
+Epoch: 291. Train Loss: 1.305081. Patience Count: 5.
+Epoch: 292. Train Loss: 1.353834. Patience Count: 6.
+Epoch: 293. Train Loss: 1.356724. Patience Count: 7.
+Epoch: 294. Train Loss: 1.775949. Patience Count: 8.
+Epoch: 295. Train Loss: 1.563313. Patience Count: 9.
+Epoch: 296. Train Loss: 1.300830. Patience Count: 10.
+Epoch: 297. Train Loss: 1.261374. Patience Count: 11.
+Epoch: 298. Train Loss: 1.113173. Patience Count: 12.
+Epoch: 299. Train Loss: 1.132149. Patience Count: 13.
+Epoch: 300. Train Loss: 1.261091. Patience Count: 14.
+Epoch: 301. Train Loss: 1.538249. Patience Count: 15.
+Epoch: 302. Train Loss: 1.540838. Patience Count: 16.
+Epoch: 303. Train Loss: 1.203017. Patience Count: 17.
+Epoch: 304. Train Loss: 1.309996. Patience Count: 18.
+Epoch: 305. Train Loss: 1.497257. Patience Count: 19.
+Epoch: 306. Train Loss: 1.670391. Patience Count: 20.
+Epoch: 307. Train Loss: 1.704282. Patience Count: 21.
+Epoch: 308. Train Loss: 1.151593. Patience Count: 22.
+Epoch: 309. Train Loss: 1.037912. best-save Patience Count: 0.
+Epoch: 310. Train Loss: 0.785854. best-save Patience Count: 0.
+Epoch: 311. Train Loss: 1.495410. Patience Count: 1.
+Epoch: 312. Train Loss: 1.300889. Patience Count: 2.
+Epoch: 313. Train Loss: 1.180539. Patience Count: 3.
+Epoch: 314. Train Loss: 1.416712. Patience Count: 4.
+Epoch: 315. Train Loss: 1.038001. Patience Count: 5.
+Epoch: 316. Train Loss: 1.463021. Patience Count: 6.
+Epoch: 317. Train Loss: 1.080270. Patience Count: 7.
+Epoch: 318. Train Loss: 1.165540. Patience Count: 8.
+Epoch: 319. Train Loss: 1.349492. Patience Count: 9.
+Epoch: 320. Train Loss: 1.731892. Patience Count: 10.
+Epoch: 321. Train Loss: 1.103770. Patience Count: 11.
+Epoch: 322. Train Loss: 1.394982. Patience Count: 12.
+Epoch: 323. Train Loss: 1.129566. Patience Count: 13.
+Epoch: 324. Train Loss: 1.183443. Patience Count: 14.
+Epoch: 325. Train Loss: 1.708893. Patience Count: 15.
+Epoch: 326. Train Loss: 1.421822. Patience Count: 16.
+Epoch: 327. Train Loss: 1.532060. Patience Count: 17.
+Epoch: 328. Train Loss: 1.604584. Patience Count: 18.
+Epoch: 329. Train Loss: 1.186245. Patience Count: 19.
+Epoch: 330. Train Loss: 0.908776. Patience Count: 20.
+Epoch: 331. Train Loss: 1.278290. Patience Count: 21.
+Epoch: 332. Train Loss: 1.535256. Patience Count: 22.
+Epoch: 333. Train Loss: 1.381394. Patience Count: 23.
+Epoch: 334. Train Loss: 1.231091. Patience Count: 24.
+Epoch: 335. Train Loss: 1.489019. Patience Count: 25.
+Epoch: 336. Train Loss: 1.003976. Patience Count: 26.
+Epoch: 337. Train Loss: 1.111898. Patience Count: 27.
+Epoch: 338. Train Loss: 1.056197. Patience Count: 28.
+Epoch: 339. Train Loss: 1.357321. Patience Count: 29.
+Epoch: 340. Train Loss: 1.284616. Patience Count: 30.
+Epoch: 341. Train Loss: 1.534582. Patience Count: 31.
+Epoch: 342. Train Loss: 1.360459. Patience Count: 32.
+Epoch: 343. Train Loss: 1.419755. Patience Count: 33.
+Epoch: 344. Train Loss: 1.646866. Patience Count: 34.
+Epoch: 345. Train Loss: 1.554629. Patience Count: 35.
+Epoch: 346. Train Loss: 1.117201. Patience Count: 36.
+Epoch: 347. Train Loss: 1.299655. Patience Count: 37.
+Epoch: 348. Train Loss: 1.291779. Patience Count: 38.
+Epoch: 349. Train Loss: 1.209032. Patience Count: 39.
+Epoch: 350. Train Loss: 1.186885. Patience Count: 40.
+Epoch: 351. Train Loss: 1.725842. Patience Count: 41.
+Epoch: 352. Train Loss: 1.623235. Patience Count: 42.
+Epoch: 353. Train Loss: 0.984871. Patience Count: 43.
+Epoch: 354. Train Loss: 0.962617. Patience Count: 44.
+Epoch: 355. Train Loss: 0.996276. Patience Count: 45.
+Epoch: 356. Train Loss: 0.823385. Patience Count: 46.
+Epoch: 357. Train Loss: 0.866404. Patience Count: 47.
+Epoch: 358. Train Loss: 1.250580. Patience Count: 48.
+Epoch: 359. Train Loss: 1.276262. Patience Count: 49.
+Epoch: 360. Train Loss: 1.603372. Patience Count: 50.
+Epoch: 361. Train Loss: 1.368676. Patience Count: 51.
+Epoch: 362. Train Loss: 1.079339. Patience Count: 52.
+Epoch: 363. Train Loss: 1.188975. Patience Count: 53.
+Epoch: 364. Train Loss: 1.178811. Patience Count: 54.
+Epoch: 365. Train Loss: 1.013137. Patience Count: 55.
+Epoch: 366. Train Loss: 0.797724. Patience Count: 56.
+Epoch: 367. Train Loss: 0.833247. Patience Count: 57.
+Epoch: 368. Train Loss: 1.339946. Patience Count: 58.
+Epoch: 369. Train Loss: 0.918495. Patience Count: 59.
+Epoch: 370. Train Loss: 1.004878. Patience Count: 60.
+dist.destroy_process_group()
+Epoch: 371. Train Loss: 1.084094. Patience Count: 61.Stop Early, patience has been running out.
+dist.destroy_process_group()
